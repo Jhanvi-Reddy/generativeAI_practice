@@ -1,0 +1,10 @@
+# Ignore environment variables
+.env
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
